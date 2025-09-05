@@ -1,1 +1,0 @@
-# GPT-Mini-1.5-Turbo
